@@ -1,1 +1,3 @@
 Hello World!
+
+Learning to use git as part of The Odin Project
